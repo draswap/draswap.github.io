@@ -3,7 +3,12 @@
  * and scoped locally.
  */
 
-.heroBanner {
+ .heroBanner {
+  /**
+   * 默认是绿色的，通过添加 background-color，color修改成白色背景，黑色字体
+  */
+  background-color: #ffffff; /* 蓝色 */
+  color: #040404; /* 白色 */
   padding: 4rem 0;
   text-align: center;
   position: relative;
