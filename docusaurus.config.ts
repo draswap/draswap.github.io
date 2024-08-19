@@ -104,8 +104,8 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Social',
+              href: 'https://x.com/i/communities/1823236397500899460',
             },
             {
               label: 'Discord',
