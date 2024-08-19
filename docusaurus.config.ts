@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'draSwap',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'draSwap Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
