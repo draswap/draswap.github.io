@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdraswap_github_io=self.webpackChunkdraswap_github_io||[]).push([[121],{8070:a=>{a.exports=JSON.parse('{"tags":[{"label":"draSwap","permalink":"/blog/tags/dra-swap","count":1}]}')}}]);
