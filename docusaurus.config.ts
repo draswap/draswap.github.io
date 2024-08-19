@@ -4,11 +4,10 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'draSwap',
-  tagline: 'draSwap Dinosaurs are cool',
+  tagline: 'Collect all the Dragon Ball, summon the Dragon, and realise your dreams.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  // url: 'https://draswap.github.io',
   url: 'https://docs.draswap.com',
   
   // Set the /<baseUrl>/ pathname under which your site is served
