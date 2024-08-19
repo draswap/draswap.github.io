@@ -2,7 +2,7 @@ ChuSu:
   name: ChuSu
   title: Founder @draSwap
   url: https://github.com/chusueth
-  image_url: https://github.com/yangshun.png
+  image_url: https://github.com/chusu.png
   page: true
   socials:
     x: cs_draswap
@@ -12,7 +12,7 @@ Johnsu:
   name: Johnsu
   title: Co-founder @draSwap
   url: ttps://github.com/Johnsu
-  image_url: https://github.com/slorber.png
+  image_url: https://github.com/johnsu.png
   page:
     # customize the url of the author page at /blog/authors/<permalink>
     permalink: '/all-sebastien-lorber-articles'
