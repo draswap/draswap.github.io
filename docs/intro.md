@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# draSwap Intro
+# draSwap
 
 hi draSwap
