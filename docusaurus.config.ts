@@ -67,6 +67,13 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
+    // algolia search
+    algolia: {
+      apiKey: "${{ secrets.algolia_apiKey }}",
+      indexName: "${{ secrets.algolia_indexName }}",
+      appId: "${{ secrets.algolia_appId }}",
+    },
+
     navbar: {
       title: 'draSwap',
       logo: {
