@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.draswap.com/blog</id>
     <title>draSwap Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-08-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.draswap.com/blog"/>
     <subtitle>draSwap Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://docs.draswap.com/blog/welcome</id>
         <link href="https://docs.draswap.com/blog/welcome"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
+        <updated>2024-08-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hi draSwap]]></summary>
         <content type="html"><![CDATA[<p>Hi draSwap</p>]]></content>
         <author>
