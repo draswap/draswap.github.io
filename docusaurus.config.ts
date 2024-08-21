@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'draSwap',
-  tagline: 'Collect all the Dragon Ball, summon the Dragon, and realise your dreams',
+  tagline: 'Collect all the Dragon Ball, summon the Dragon, and realise your dreams.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
