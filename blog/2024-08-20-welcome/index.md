@@ -5,5 +5,5 @@ authors: [ChuSu]
 tags: [draSwap ]
 ---
 
-Hi draSwap。
+Hi draSwap
 <!-- truncate -->
